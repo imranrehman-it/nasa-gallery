@@ -10,14 +10,7 @@ body {
   width: 1512px;
   height: 4301px;
 
-  background: linear-gradient(
-    180deg,
-    #000000 11.98%,
-    #0e0066 52.61%,
-    #478ecc 76.56%,
-    #b6e0f8 95.83%
-  );
-  border: white solid 2px;
+  background: #15202b;
 }
 
 code {
